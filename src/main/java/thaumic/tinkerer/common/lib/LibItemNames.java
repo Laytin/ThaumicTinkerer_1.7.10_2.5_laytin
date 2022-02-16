@@ -68,6 +68,8 @@ public final class LibItemNames {
     public static final String SWORD = "mobSword";
     public static final String MOB_ASPECT = "mobAspect";
     public static final String MOB_DISPLAY = "mobDisplay";
+    public static final String ICHOR_HOE = "ichorHoe";
+    public static final String ICHOR_HOE_GEM = "ichorHoeGem";
     public static final String[] KAMI_RESOURCE_NAMES = new String[]{
             "ichor",
             "ichorCloth",

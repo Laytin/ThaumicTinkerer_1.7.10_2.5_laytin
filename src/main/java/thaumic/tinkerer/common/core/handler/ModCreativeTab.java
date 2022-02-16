@@ -59,7 +59,6 @@ public class ModCreativeTab extends CreativeTabs {
     @Override
     public void displayAllReleventItems(List list) {
         list.addAll(this.list);
-
     }
 
     public void addWand() {

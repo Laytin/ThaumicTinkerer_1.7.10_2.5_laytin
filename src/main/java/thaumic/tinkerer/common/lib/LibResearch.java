@@ -90,10 +90,12 @@ public final class LibResearch {
     public static final String KEY_ICHOR_SHOVEL = "ICHOR_SHOVEL";
     public static final String KEY_ICHOR_AXE = "ICHOR_AXE";
     public static final String KEY_ICHOR_SWORD = "ICHOR_SWORD";
+    public static final String KEY_ICHOR_HOE = "ICHOR_HOE";
     public static final String KEY_ICHOR_PICK_GEM = "ICHOR_PICK_GEM";
     public static final String KEY_ICHOR_SHOVEL_GEM = "ICHOR_SHOVEL_GEM";
     public static final String KEY_ICHOR_AXE_GEM = "ICHOR_AXE_GEM";
     public static final String KEY_ICHOR_SWORD_GEM = "ICHOR_SWORD_GEM";
+    public static final String KEY_ICHOR_HOE_GEM = "ICHOR_HOE_GEM";
     public static final String KEY_ICHOR_POUCH = "ICHOR_POUCH";
     public static final String KEY_BLOCK_TALISMAN = "BLOCK_TALISMAN";
     public static final String KEY_PLACEMENT_MIRROR = "PLACEMENT_MIRROR";
